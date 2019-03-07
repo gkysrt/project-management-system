@@ -1,3 +1,11 @@
-# Project Manager App
+# Project Management System
 
-* Project Manager in Java with Mediator design pattern.
+## CENG431 Building Software Systems
+
+> Homework 1
+
+ Project's purpose is to demonstrate Mediator Design Pattern
+
+---
+
+
